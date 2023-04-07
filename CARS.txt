@@ -1,0 +1,10 @@
+:Lamborgini:Sports:AWD:5000:350:2021:4500:9390.21:SOLD
+Corolla:Toyota:Hatchback:AWD:700:260:2005:1300:3022.91:Available
+Swift:Suzuki:Hatchback:FWD:5000:240:2020:1300:5500:Available
+Foutuner:Toyota:Hatchback:4WD:4213:240:2018:2400:8000:Available
+Land Cruiser:Toyota:Hatchback:4WD:1500:180:2021:3800:13500:Available
+C180:Mercedes:Sedan:4WD:7500:260:2020:3400:15000:SOLD
+Corolla:Toyota:Sedan:FWD:3000:260:2020:1800:4000:Available
+City:Honda:Sedan:FWD:17000:220:2016:1300:2600:SOLD
+i8:BMW:Sports:AWD:1200:320:2022:4000:22000:Available
+Raptor:Ford:Truck:4WD:3300:280:2020:3000:18000:Available
